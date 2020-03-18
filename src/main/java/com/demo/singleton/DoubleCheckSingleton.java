@@ -29,7 +29,7 @@ public class DoubleCheckSingleton {
         return doubleCheckSingleton;
     }
 
-    //26行代码
+    // 代码
     // doubleCheckSingleton = new DoubleCheckSingleton();
     // 实际上可以分解成以下三个步骤：
     //
